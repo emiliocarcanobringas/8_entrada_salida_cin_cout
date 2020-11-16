@@ -1,1 +1,1 @@
-# 8_entrada_salida_cin_cout
+Este programa muestra como se lleva a cabo en C++ la entrada y salida de datos, gracias a la librería iostream, y el acceso al espacio de nombres para hacer uso de cin y cout, se agregó además la librería estándar de regionalización locale.h y se le asignó el valor: Idioma español para poder escribir palabras acentos.
